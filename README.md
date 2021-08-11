@@ -1,6 +1,7 @@
 # shopping_bloc_app
 
-A new Flutter project.
+checkout other projects too! cheers:)
+
 
 ## Getting Started
 
